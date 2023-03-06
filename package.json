@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.7.3",
+    "twilio": "^4.8.0"
+  }
+}
